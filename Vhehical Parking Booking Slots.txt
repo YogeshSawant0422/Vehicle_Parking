@@ -30,7 +30,20 @@
       Registration
 	  Login
 		
-		  Show Vehicle Categories(Choose One Of Them)
-		  
-		
+		 1. Show Vehicle Categories(Choose One Of Them)
+		 2. Choose City
+         3. Choose Area From Above City
+         4. Slots Available Or Not	 
+		 5.Choose Slot
+		 6.User Information
+					Vehicle Company
+					Vehicle No
+					User Name
+					User Contact Number
+					
+			- This is for third person
+				***	In Time
+					Parking Charges
+					Status ****
+					
 			
