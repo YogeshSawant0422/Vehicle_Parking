@@ -1,0 +1,36 @@
+
+ Vehicle Parking Booking System
+ 
+ Languages
+         Front End => AngularJs
+		 Middle => C# .Net Core
+		 Backend => MongoDB       
+ 
+ 1.Admin
+     Dashboard 
+           My Profile
+		   Change Password 
+		   Log Out
+		   
+		     i)Vehicle Category 
+					 Add Category
+					 Manage Category
+			 ii)Add City
+			       Add Sub City
+				   Manage City 
+			 iii)Charges Details
+					Add Area Wise Charges(Using Vehicle Categories With Time Slots)
+					Manage Charge Details
+			 iv)Area Wise Security Master (Third Pearson)	
+						Add Third Pearson......(*Change This Third Pearson Name)
+			 v) Received Daily Parking Deatils(City Wise With Areas)		
+             vi)Reports(Only For Admin)			 
+
+ 2.User
+      Registration
+	  Login
+		
+		  Show Vehicle Categories(Choose One Of Them)
+		  
+		
+			
